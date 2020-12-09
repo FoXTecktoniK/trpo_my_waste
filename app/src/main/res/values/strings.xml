@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyWaste</string>
+    <string name="title_home">Трата</string>
+    <string name="title_dashboard">Отчет</string>
+    <string name="title_notifications">Я-Аудитор</string>
+
+
+    <string-array name="currencies_array">
+        <item>Рубль</item>
+        <item>Доллар</item>
+        <item>Евро</item>
+    </string-array>
+
+</resources>
